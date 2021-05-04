@@ -7,7 +7,7 @@ in a separate folder alongside contextual documents.
 
 My primary programming languages include:
 
-  <b> C <\b>
+  <b> C </b>
   Embedded C
   C++
   Python
