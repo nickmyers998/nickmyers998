@@ -3,7 +3,7 @@ Hello!
 My name is Nicholas Myers and I'm an electrical engineering senior at the University of North Florida with minors in Computing and Mathematics.
 
 This is my GitHub page where all of my personal and school projects are available for public view. Each project is located
-in a separate folder alongside contextual documents.
+in a separate repository alongside contextual documents.
 
 My primary programming languages include:
 
@@ -11,6 +11,10 @@ My primary programming languages include:
   
 I have worked with these languages in a variety of contexts, including microcontroller programming, serial communication, 
 control system simulation, MySQL database applications, data analysis, scripting, web scraping, and optimization.
+
+This page includes projects which focused on specific applications of engineering and computer science software, of which I have gained hands-on experience and are listed here:
+
+  NI MultiSim, MATLAB, Simulink, EAGLE, MPLABX, SolidWorks, Code Composer Studio, and Visual Studio Code
 
 I am always interested in speaking with employment recruiters! The fields which I am most interested in are firmware engineering,
 embedded systems engineering, digital and analog circuit design, software engineering, and controls engineering.
