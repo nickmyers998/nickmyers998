@@ -14,7 +14,7 @@ control system simulation, MySQL database applications, data analysis, scripting
 
 This page includes projects which focused on specific applications of engineering and computer science software, of which I have gained hands-on experience and are listed here:
 
-  NI MultiSim, MATLAB, Simulink, EAGLE, MPLABX, SolidWorks, Code Composer Studio, and Visual Studio Code
+  NI MultiSim, MATLAB, Simulink, EAGLE, MPLABX, SolidWorks, MS Excel, Code Composer Studio, and Visual Studio Code
 
 I am always interested in speaking with employment recruiters! The fields which I am most interested in are firmware engineering,
 embedded systems engineering, digital and analog circuit design, software engineering, and controls engineering.
