@@ -10,7 +10,7 @@ My primary programming languages include:
   C, Embedded C, C++, Python, Verilog, Java, SQL, MATLAB, and VBA
   
 I have worked with these languages in a variety of contexts, including microcontroller programming, serial communication, 
-control system simulation, MySQL database applications, data analysis, scripting, web scraping, and optimization.
+control system simulation, image processing, MySQL database applications, data analysis, scripting, web scraping, and optimization.
 
 This page includes projects which focused on specific applications of engineering and computer science software, of which I have gained hands-on experience and are listed here:
 
