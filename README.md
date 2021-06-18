@@ -18,7 +18,7 @@ This page includes projects which focused on specific applications of engineerin
   
 Many of these projects incorporated the use of hardware or physical circuit design. I have hands on experience with PIC/MSP microcontrollers (control systems and embedded systems), analog signal amplifier circuits (transconductance, voltage, and current amplifiers), digital logic circuits (multiplexers and state space circuits), serial communication circuits (I2C, UART, and RS-232), proportional actuation devices (solenoid valves), and instrumentation devices (mV/V and 4-20mA).
 
-I am actively looking for internships and full time positions! The fields which I am most interested in are embedded software and firmware engineering, digital and analog circuit design, electronics engineering, and control systems.
+I am actively looking for internships and full time positions! The fields which I am most interested in are embedded software and firmware engineering, digital and analog circuit design, electronics engineering, data science, software engineering, and control systems.
 
 If you would like to get in touch with me, I am readily available through email [nickmyers998@gmail.com].
 I can also be reached through my LinkedIn profile here: https://www.linkedin.com/in/nicholas-myers-481a92145/
