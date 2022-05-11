@@ -1,6 +1,6 @@
 Hello!
 
-My name is Nicholas Myers and I'm an Electrical Engineering senior at the University of North Florida with minors in Computing and Mathematics.
+My name is Nicholas Myers and I'm an Electrical Engineering major from the University of North Florida with minors in Computing and Mathematics.
 
 This is my GitHub page where many of my personal and school projects are available for public view. Each project is located
 in a separate repository alongside contextual documents.
